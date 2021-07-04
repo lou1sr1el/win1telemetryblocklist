@@ -1,3 +1,3 @@
 # win10telemetryblocklist
 
-Blocklist for windows 10 telemetry and trackers.
+Blocklist for windows 10 telemetry and trackers, in domain format.
